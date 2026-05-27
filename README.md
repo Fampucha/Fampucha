@@ -1,6 +1,6 @@
 # Hi there, I'm Nastia Klochko 👋
 
-Junior Front-End / Full-Stack developer focused on building responsive websites and web applications.
+Web Developer focused on responsive websites, web applications, and modern user interfaces.
 
 ## Tech Stack
 
