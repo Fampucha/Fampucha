@@ -40,7 +40,7 @@ Web Developer focused on responsive websites, web applications, and modern user 
 ## Featured Projects
 
 ### Weather App
-React-based weather application using API integration and dynamic UI.
+React & TypeScript weather app with WeatherAPI integration and dynamic weather-based UI.
 
 👉 [View repository](https://github.com/Fampucha/weather-app)
 
